@@ -4,7 +4,7 @@
 
   <groupId>HolaMundoJenkins</groupId>
   <artifactId>HMJ</artifactId>
-  <version>{$BUILD_NUMBER}T</version>
+  <version>SNAPSHOT-0.0.1</version>
   <packaging>jar</packaging>
 
   <name>HMJ</name>
@@ -12,6 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <build.number>SNAPSHOT</build.number>
   </properties>
 
   <dependencies>
