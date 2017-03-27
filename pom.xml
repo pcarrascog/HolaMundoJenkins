@@ -5,7 +5,7 @@
   <groupId>HolaMundoJenkins</groupId>
   <artifactId>HMJ</artifactId>
   <version>SNAPSHOT-0.0.1</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>HMJ</name>
   <url>http://maven.apache.org</url>
